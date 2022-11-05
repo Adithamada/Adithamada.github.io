@@ -140,7 +140,7 @@ header{
     }
     .nav{
         border-radius: 3px;
-        width: 400px;
+        width: 350px;
         margin: 5px auto;
         background-color: white;
     }
@@ -153,7 +153,7 @@ header{
         margin: 0px 10px;
         color: black;
         text-decoration: none;
-        font-size: 20px;
+        font-size: 15px;
     }
     .nav ul li a:hover{
         color: white;
@@ -165,7 +165,7 @@ header{
     .intro{ 
         text-align: center;
         border-radius: 5px;
-        width: 400px;
+        width: 350px;
         margin: 15px auto;
         background-color: white;
         padding: 30px 0px;
@@ -186,7 +186,7 @@ header{
     .about{
         background-color: white;
         text-align: center;
-        width: 400px;
+        width: 350px;
         border-radius: 5px;
         margin: 50px auto;
     }
@@ -197,13 +197,13 @@ header{
         background-color: black;
     }
     .about p{
-        font-size: 20px;
+        font-size: 15px;
         padding: 30px 10px 60px;
     }
     .skill{
         background-color: white;
         text-align: center;
-        width: 400px;
+        width: 350px;
         border-radius: 5px;
         margin: 50px auto;
     }
@@ -225,7 +225,7 @@ header{
     .contact{
         background-color: white;
         text-align: center;
-        width: 400px;
+        width: 350px;
         border-radius: 5px;
         margin: 50px auto;
     }
