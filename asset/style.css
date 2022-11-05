@@ -130,6 +130,7 @@ header{
         text-align: center;
     }
     .title{
+        width:100%;
         background-color:white ;
         height: auto;
         border-bottom:2px solid rgb(53, 53, 53) ;
