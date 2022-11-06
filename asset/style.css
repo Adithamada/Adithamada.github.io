@@ -2,7 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: monospace;
     background-color: black;
